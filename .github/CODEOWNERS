@@ -271,7 +271,7 @@ peps/pep-0413.rst  @ncoghlan
 peps/pep-0414.rst  @mitsuhiko @ncoghlan
 peps/pep-0415.rst  @benjaminp
 peps/pep-0416.rst  @vstinner
-peps/pep-0417.rst  @voidspace
+# peps/pep-0417.rst
 peps/pep-0418.rst  @vstinner
 peps/pep-0418/     @vstinner
 # peps/pep-0419.rst
@@ -642,6 +642,7 @@ peps/pep-0760.rst  @pablogsal @brettcannon
 peps/pep-0761.rst  @sethmlarson @hugovk
 peps/pep-0762.rst  @pablogsal @ambv @lysnikolaou @emilyemorehouse
 peps/pep-0763.rst  @dstufft
+peps/pep-0764.rst  @JelleZijlstra
 peps/pep-0765.rst  @iritkatriel @ncoghlan
 peps/pep-0766.rst  @warsaw
 peps/pep-0767.rst  @carljm
@@ -649,7 +650,9 @@ peps/pep-0768.rst  @pablogsal
 peps/pep-0769.rst  @facundobatista
 peps/pep-0770.rst  @sethmlarson @brettcannon
 peps/pep-0771.rst  @pradyunsg
+peps/pep-0772.rst  @warsaw @pradyunsg
 peps/pep-0773.rst  @zooba
+peps/pep-0774.rst  @savannahostrowski
 # ...
 peps/pep-0777.rst  @warsaw
 # ...
